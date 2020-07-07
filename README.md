@@ -54,10 +54,11 @@ Install the application, Once it is done start it by running Main class `Spring-
 	
 ### Additional Info:
 * For More details find the below links
-<ul>
+<ol>
   <li>https://angular.io/</li>
   <li>https://spring.io/</li>
-</ul>
+</ol>
+* This repo has been built with the inspiration from web `bezkoder.com`, for more details you can refer there.
   
 ## Contributing
 
